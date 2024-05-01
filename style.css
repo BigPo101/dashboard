@@ -1,9 +1,6 @@
 body {
   background-color: #ffffff;
 }
-.house {
-  width: 30px;
-  
 @-webkit-keyframes circle {
     from { transform:rotate(0deg); }
     to { transform:rotate(180deg); }
