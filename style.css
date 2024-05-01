@@ -24,17 +24,6 @@ body {
     background-color: #000000;
 }
 
-#two {
-    width:100px;
-    height:100px;
-    margin: 0px auto 0;
-    color:orange;
-    font-size:100px;
-    line-height:1;
-
-    transform-origin:50% 200px;
-}
-
 
  #one:hover > div {
      animation: circle 1s linear infinite;
